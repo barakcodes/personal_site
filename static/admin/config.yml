@@ -1,5 +1,5 @@
 backend:
-  name: barakcodes
+  name: github
   repo: barakcodes/personal_site
 
 media_folder: static/assets
