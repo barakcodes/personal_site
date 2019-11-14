@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: tbarakcodes
+  repo: barakcodes/personal_site
 
 media_folder: static/assets
 public_folder: assets
